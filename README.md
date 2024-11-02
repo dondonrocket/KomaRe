@@ -1,4 +1,4 @@
-# KomaRe
+### KomaRe ###
 
 1. アプリ概要
 
@@ -63,7 +63,6 @@
 
 	•	バックエンド: Laravel
 	•	フロントエンド: Vue.js 3
-	•	コンテナ化: Docker
 	•	画像生成モデル: Stable Diffusion 1.6 (SD1.6)
 	
 
