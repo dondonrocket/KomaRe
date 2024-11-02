@@ -67,7 +67,7 @@
 
 技術選定
 
-	•	バックエンド: Laravel
+	•	バックエンド: Laravel11
 	•	フロントエンド: Vue.js 3
 	•	画像生成モデル: Stable Diffusion 1.6 (SD1.6)
 	
